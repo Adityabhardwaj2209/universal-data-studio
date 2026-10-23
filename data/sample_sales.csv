@@ -1,0 +1,11 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price
+ORD001,2026-10-01,Keyboard,Electronics,2,799
+ORD002,2026-10-02,Notebook,Stationery,5,60
+ORD003,2026-10-03,Mouse,Electronics,3,499
+ORD004,2026-10-05,Pen,Stationery,10,20
+ORD005,2026-10-10,Headphones,Electronics,1,1499
+ORD006,2026-11-01,Keyboard,Electronics,1,799
+ORD007,2026-11-03,Notebook,Stationery,8,60
+ORD008,2026-11-05,Mouse,Electronics,2,499
+ORD009,2026-11-10,Pen,Stationery,15,20
+ORD010,2026-11-15,Headphones,Electronics,2,1499
